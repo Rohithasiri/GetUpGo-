@@ -1,14 +1,7 @@
-# Web UI
 streamlit>=1.38
-
-# Pose detection / Computer Vision
 opencv-python-headless>=4.8.0.76
 mediapipe>=0.10.0
-
-# Data handling
 numpy
 pandas
-
-# Optional: plotting or PIL (add only if you actually use them)
 matplotlib
 Pillow
